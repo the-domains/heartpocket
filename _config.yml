@@ -1,0 +1,28 @@
+name: heartpocket
+favicon: null
+layout_spectrum: 0.19311163644306362
+typography_spectrum: 0.8533990341238678
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.738907037768513
+  lightness: 0.725464606191963
+  saturation: 0.31681010220199823
+  rhythmicContrast: 0.15729213552549481
+purpose: []
