@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[heartpocket]]></title>
+        <description><![CDATA[heartpocket]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 04:42:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Once upon a time, there were two special boys called Cooper and Hugo. Cooper and Hugo were special, in part, because they had heart pockets and they knew how to use them. You see, heart pockets are a secret pocket inside the heart where you can store extra love for when you need it. That way you always have a special store of love that you can pull out, and wrap around you like a super hero's cape when you are feeling scared, lonely, upset or missing someone you love.</p>]]></description>
+            <link>undefinedonce-upon-a-time-there-were-two-special-boys-called-cooper/index.html</link>
+            <guid isPermaLink="false">c319269b-929a-4ef4-b5b0-47f546571dfb</guid>
+            <pubDate>Thu, 18 Aug 2016 04:42:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
